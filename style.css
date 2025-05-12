@@ -1,0 +1,57 @@
+/* Global Styles */
+.title {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.title h1 {
+  font-family: Helvetica, sans-serif;
+  color: #0f8294;
+  font-size: 36px;
+  margin: 0;
+}
+
+body {
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-top: 12px;
+  margin-bottom: 40px;
+  font-family: Helvetica, sans-serif;
+}
+
+#header {
+  width: 100%;
+}
+
+h1 {
+  color: #0f8294;
+}
+
+h3 {
+  color: #0f8294;
+  margin-top: 0.5em;
+}
+
+p {
+  line-height: 1.5;
+}
+
+/* Section Backgrounds */
+.even {
+  background-color: #e4e4e4;
+  padding: 20px;
+  margin-bottom: 2px;
+}
+
+.odd {
+  background-color: #afc3c6;
+  padding: 20px;
+  margin-bottom: 2px;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  display: block;
+  margin: 1em 0;
+}
